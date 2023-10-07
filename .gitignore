@@ -1,0 +1,24 @@
+# Compiled bytecode
+*.class
+
+# Common directories for bytecode
+bin/
+target/
+out/
+
+# IDE-specific settings and directories
+*.iml
+.idea/
+*.vscode/
+*.settings/
+*.project
+*.classpath
+
+# Other common ignore items for Java projects
+*.log
+*.tmp
+*.bak
+*.swp
+*.javac
+*.eml
+.DS_Store
