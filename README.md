@@ -1,3 +1,5 @@
+![UML-diagram](java_ecommerce_system_UML_class.png)
+
 # ECommerceSystem Administrator CLI
 
 This command line application allows you to simulate being the administrator of an `ECommerceSystem`.
@@ -28,4 +30,3 @@ This command line application allows you to simulate being the administrator of 
 4. **Run the Application**:
 `ECommerceUserInterface` has the main method: 'java -cp bin ECommerceUserInterface'
 
-![UML-diagram](java_ecommerce_system_UML_class.png)
