@@ -1,3 +1,4 @@
+![UML-diagram](app_image.png)
 ![UML-diagram](java_ecommerce_system_UML_class.png)
 
 # ECommerceSystem Administrator CLI
