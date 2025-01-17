@@ -1,7 +1,8 @@
-![UML-diagram](app_image.png)
+## Click on the image to view the demo
+![UML-diagram](JAVCART.png)
 ![UML-diagram](java_ecommerce_system_UML_class.png)
 
-# ECommerceSystem Administrator CLI
+## ECommerceSystem Administrator CLI
 
 This command line application allows you to simulate being the administrator of an `ECommerceSystem`.
 
@@ -25,8 +26,8 @@ This command line application allows you to simulate being the administrator of 
 
 
 ##Installation and Running
-1. **Clone the Repository**: 'git clone https://github.com/tinyHiker/java_ecommerce_system.git'
-2. **Navigate to the Project Directory**: 'cd java_ecommerce_system'
+1. **Clone the Repository**: 'git clone https://github.com/tinyHiker/jav_cart.git'
+2. **Navigate to the Project Directory**: 'cd jav_cart'
 3. **Compile the Java Files**: Make sure you have the Java Development Kit (JDK) installed. Compile the Java files using: 'javac -d bin src/*.java'. This command compiles the Java source files and places the resulting `.class` files in a `bin/` directory.
 4. **Run the Application**:
 `ECommerceUserInterface` has the main method: 'java -cp bin ECommerceUserInterface'
